@@ -1,0 +1,24 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}What is Tomography?}{2}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Important Applications of tomographic imaging}{2}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}CT between the past and the present}{2}{subsection.1.3}%
+\contentsline {subsubsection}{\numberline {1.3.1}Some history}{2}{subsubsection.1.3.1}%
+\contentsline {subsubsection}{\numberline {1.3.2}Tomography today}{3}{subsubsection.1.3.2}%
+\contentsline {subsection}{\numberline {1.4}Aim and contents of the book}{4}{subsection.1.4}%
+\contentsline {section}{\numberline {2}Analysis Background}{5}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Linear Operators}{5}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Convolution}{5}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Inverse Problems and Regularization}{6}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}What is an inverse problem?}{6}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.2}Sensitivity to noise}{6}{subsubsection.2.3.2}%
+\contentsline {subsubsection}{\numberline {2.3.3}Well posed and Ill posed problems}{7}{subsubsection.2.3.3}%
+\contentsline {subsubsection}{\numberline {2.3.4}Stabilization by Regularization}{8}{subsubsection.2.3.4}%
+\contentsline {subsection}{\numberline {2.4}The Fourier Transform}{8}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Convolution using the Fourier Transform}{9}{subsection.2.5}%
+\contentsline {section}{\numberline {3}Linear Algebra Background}{10}{section.3}%
+\contentsline {subsection}{\numberline {3.1}System of Linear Equations}{10}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Notation}{10}{subsubsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.2}Rank, Range and Null Space}{10}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Linear Least Squares Problem}{11}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Conclusion}{12}{section.4}%
