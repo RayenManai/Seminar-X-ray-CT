@@ -1,0 +1,13 @@
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{What is Tomography?}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{Important Applications of tomographic Imaging}{10}{0}{1}
+\beamer@subsectionintoc {1}{3}{CT between the past and the present}{14}{0}{1}
+\beamer@subsectionintoc {1}{4}{Aim and contents of this book}{35}{0}{1}
+\beamer@sectionintoc {2}{Analysis Background}{46}{0}{2}
+\beamer@subsectionintoc {2}{1}{Setting the stage: Definitions}{46}{0}{2}
+\beamer@subsectionintoc {2}{2}{Inverse Problems and Regularization}{61}{0}{2}
+\beamer@subsectionintoc {2}{3}{The Fourier Transform}{99}{0}{2}
+\beamer@sectionintoc {3}{Linear Algebra Background}{114}{0}{3}
+\beamer@subsectionintoc {3}{1}{System of linear equations}{114}{0}{3}
+\beamer@subsectionintoc {3}{2}{Rank, Range and Null space}{120}{0}{3}
+\beamer@subsectionintoc {3}{3}{Linear Least Squares Problem}{137}{0}{3}

@@ -1,0 +1,44 @@
+\begin{thebibliography}{1}
+
+\bibitem{hansen2021computed}
+Per~Christian Hansen, Jakob J{\o}rgensen, and William~RB Lionheart.
+\newblock {\em Computed tomography: algorithms, insight, and just enough
+  theory}.
+\newblock SIAM, 2021.
+
+\bibitem{cone_beam_ct}
+Fda.
+\newblock \url{
+  https://www.fda.gov/radiation-emitting-products/medical-x-ray-imaging/dental-cone-beam-computed-tomography
+  }.
+\newblock Accessed: April 2023.
+
+\bibitem{pet_scan}
+Positron emission tomography scan.
+\newblock \url{
+  https://my.clevelandclinic.org/health/diagnostics/10123-pet-scan }.
+\newblock Accessed: April 2023.
+
+\bibitem{tem}
+Transmission electron microscope.
+\newblock \url{ https://uwaterloo.ca/metrology/tem-stem }.
+\newblock Accessed: April 2023.
+
+\bibitem{synchrotron}
+Diamond light source: the uk’s national synchrotron.
+\newblock \url{ https://www.diamond.ac.uk/Home/About.html }.
+\newblock Accessed: April 2023.
+
+\bibitem{colorized}
+Better explained.
+\newblock \url{ https://betterexplained.com/articles/intuitive-convolution/ }.
+\newblock Accessed on April 2023.
+
+\bibitem{recipe}
+Libretexts mathematics.
+\newblock \url {
+  https://math.libretexts.org/Bookshelves/Linear_Algebra/Interactive_Linear_Algebra_(Margalit_and_Rabinoff)/06%3A_Orthogonality/6.5%3A_The_Method_of_Least_Squares
+  }.
+\newblock Accessed on April 2023.
+
+\end{thebibliography}
