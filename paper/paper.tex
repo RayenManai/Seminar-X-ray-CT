@@ -504,7 +504,7 @@ the matrix (it is also equal to the number of linearly independent columns), and
 \begin{tcolorbox}[colback=seashell,colframe=beaublue,title=Range]	
 The range, or column space, Range($A$), of an $m \times n$ matrix $A$ is the linear
 subspace spanned by the columns of the matrix:
-			 $$ Range(A) \equiv \{u \in \mathbb{R}^{m} | u = \alpha_1 c_1 + \alpha_2 c_2 + \hdots + \alpha_n c_n , arbitrary \alpha_j \} $$
+			 $$ Range(A) \equiv \{u \in \mathbb{R}^{m} | u = \alpha_1 c_1 + \alpha_2 c_2 + \hdots + \alpha_n c_n , arbitrary \; \alpha_j \} $$
 		 
 \end{tcolorbox}
  \textbf{Example: } 
@@ -532,7 +532,7 @@ The null space (or kernel), Null($A$), is the linear subspace of all vectors map
 					 \subsection{Linear Least Squares Problem}
 				The linear least-squares problem is probably the most well known problem formulation that seeks to handle inconsistency of a linear problem, i.e., to define a meaningful “solution” to an inconsistent system. 
 				\newline 
-				The key idea is to find an $x$ such that $Ax$ approximates the right-hand side $b$ in some optimal way—here by minimizing the 2-norm of the residual vector $b - Ax$.
+				The key idea is to find an $x$ such that $Ax$ approximates the right-hand side $b$ in some optimal way, here by minimizing the 2-norm of the residual vector $b - Ax$.
 \begin{tcolorbox}[colback=seashell,colframe=beaublue,title=Recipe: Compute a least-squares solution ~\cite{recipe}]	
 	Let $A$ be an $m \times n$ Matrix and $b$ a vector in $\mathbb{R}^{n}$ :  
 	\begin{enumerate}
